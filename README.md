@@ -2,4 +2,6 @@
 
 ## PDF Subject
 
-You can view the PDF subject [here](https://pdfhost.io/v/S86gaFso7_libft).
+![Page 1](images/libft_page-0001.jpg)
+![Page 2](libft_page-0002.jpg)
+
